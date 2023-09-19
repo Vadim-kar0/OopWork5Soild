@@ -1,6 +1,9 @@
 package MVP;
 
 public class HumanMailView implements View{
+
+    // Класс зависит от интерфейса
+
     @Override
     public void ReturnMail() {
         System.out.println("Возвращено");

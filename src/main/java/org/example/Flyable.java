@@ -1,5 +1,7 @@
-package org.example;
-
-public interface Flyable {
-    public void fly();
-}
+//package org.example;
+//
+//public interface Flyable {
+//
+//    //////////////////////////Interface segregation principle///////////////////////
+//    public void fly();
+//}

@@ -1,6 +1,12 @@
 package Data;
 
 public class Mail {
+    ///////////////////Single responsibility principle//////////////////////
+    // Даннный класс отвечает только за сущность Mail
+    ///////////////////Open-closed principle//////////////////////
+    // Класс открыт для расширения
+
+
     private Human to;
     private Postman from;
     private String address;

@@ -12,6 +12,8 @@ public class Main {
         Mail mail = new Mail();
         mail = mail.generateNewMail();
         controller.start(mail);
+        double s = 1;
+        System.out.println(Math.sqrt(s));
 
     }
 }
